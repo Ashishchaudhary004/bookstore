@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Sotry book",
+        "title":"world-famous English Story Books For Kids, Children & Young Adults ",
+        "price":0,
+        "catgory":"Free",
+        "Image":"https://img.freepik.com/premium-photo/halloween-sticker_925962-37284.jpg?w=740"
+
+    },
+    {
+        "id": 2,
+        "name": "Drama book",
+        "title":"DRAMA is about girl named Callie who is in a acting class at school.",
+        "price":0,
+        "catgory":"Free",
+        "Image":"https://img.freepik.com/free-vector/gradient-shakespeare-illustration_52683-81906.jpg?t=st=1714758289~exp=1714761889~hmac=39eeff6b3ad78e79315757cab5bc043be015cc2b45aa0676a459b98197c6a334&w=740"
+
+    },
+    {
+        "id": 3,
+        "name": "Comedy book",
+        "title":"The Unproposed Guy’ is a complete game changer for today’s youth.",
+        "price":0,
+        "catgory":"Free",
+        "Image":"https://img.freepik.com/premium-vector/hardworking-goose-teacher-cartoon-style_714091-16517.jpg?w=740"
+    },
+    {
+        "id": 4,
+        "name": "Jokes book",
+        "title":"Laugh Attack!The Biggest and Best Book",
+        "price":0,
+        "catgory":"Free",
+        "Image":"https://img.freepik.com/premium-vector/book-cartoon-character-celebrate-birthday-party_8071-47078.jpg?w=740"
+    },
+    {
+        "id": 5,
+        "name": "Story of life book",
+        "title":"Lorem ipsum dolor amet consectertor elit uga qui repudiandae? Earum, nemo obcaecati labore expedita distinctio totam suscipit perferendis? Adipisci veniam minus dolor reiciendis corrupti totam ",
+        "price":0,
+        "catgory":"Free",
+        "Image":"https://img.freepik.com/premium-vector/vector-imagination-concept-children-reading-story-book_45996-445.jpg?w=826"
+    },
+    {
+        "id": 6,
+        "name": "East of Eden",
+        "title":"Set in the rich farmland of California's",
+        "price":0,
+        "catgory":"Free",
+        "Image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1714759471~exp=1714763071~hmac=4a0f71ddb6e9eee220b54172710bad238ce9d983f64ea5925239e1cceece6e30&w=740"
+    },
+    {
+        "id": 7,
+        "name": "The Adventures",
+        "title":"someone leaves everything they know, faces danger and excitement along the way, and, with a little luck, gets to their final destination safely and with a story to tell. t's a journey into the human spirit and our endless curiosity about the universe",
+        "price":180,
+        "catgory":"",
+        "Image":"https://img.freepik.com/free-vector/book-with-kids-camping-park_1308-29776.jpg?t=st=1714758979~exp=1714762579~hmac=7768f295cefb6a6c62aedd4e04f51514f1a1c6ce504c32c1ae312dc41f41194d&w=740"
+    },
+    {
+        "id": 8,
+        "name": "The House of Mirth",
+        "title":"The story follows Lily Bart, a young woman trapped by social expectations who tries to gain her independence and ends up falling. ",
+        "price":240,
+        "catgory":"",
+        "Image":"https://img.freepik.com/free-vector/enchanted-forest-elf-home-illustration_1308-167315.jpg?t=st=1714757915~exp=1714761515~hmac=bc4c53779b1984366f98cd9e4f8169d726a2062c43838cef8c18e2410cbf764d&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Heart Is A Lonely Hunter",
+        "title":"The novel tells the story of John Singer, a deaf-mute man who becomes a confidant.",
+        "price":149,
+        "catgory":"",
+        "Image":"https://img.freepik.com/free-vector/loving-man-is-carrying-his-woman-happy-smiling-joyful-white-couple-cartoon-vector-illustration_1150-39734.jpg?t=st=1714760660~exp=1714764260~hmac=5e783e339c953a3a0c2b488f8c27bd89241c69875a2e65badc45a0876d2dadfd&w=740"
+    },
+    {
+        "id": 10,
+        "name": "The Night Circus",
+        "title":"weaves a tale of love, destiny, and the clash between two magical worlds.",
+        "price":204,
+        "catgory":"",
+        "Image":"https://img.freepik.com/premium-photo/halloween-images-halloween-social-media-designs-halloween-amusement-ride-design-halloween-background_1002350-319.jpg?w=740"
+    }
+]
